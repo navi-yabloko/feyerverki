@@ -1,0 +1,44 @@
+body {
+    font-family: sans-serif;
+}
+nav a{
+    text-decoration: none;
+    color: white;
+    padding: 3px;
+    margin: 20px;
+ 
+
+}
+nav{
+    margin: 20px;
+    background-color:lightskyblue ;
+    padding: 10px;
+
+}
+header{
+    padding: 10px;
+    background-color: purple;
+
+}
+ .discount{
+     background-color:darkblue;
+     color: white;
+     text-decoration: none;
+    border: 2px solid white;
+     padding: 3px;
+
+ }
+ h1{
+     color: purple;
+     border:3px solid darkblue;
+     text-align: center;
+    
+ }
+ footer p{
+     background-color: white;
+ }
+ footer{
+     background-color: purple;
+     border: 3px solid purple;
+ }
+  
